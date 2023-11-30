@@ -4,7 +4,7 @@ project:
 book: 
   page-navigation: true
   title: "NOAA quarto book" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-book" 
+  site-url: "https://aryr100.github.io/NOAA-quarto-book/"
   repo-url: "https://github.com/aryr100/NOAA-quarto-book"
   repo-actions: [edit, source, issue]
   favicon: assets/favicon.ico
