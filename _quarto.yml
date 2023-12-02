@@ -15,7 +15,7 @@ book:
       affiliations:
         - name: Islamic Open Works
           department: Northwest Fisheries Science Center
-    chapters:
+  chapters:
     - index.qmd
     - content/setup.qmd
     - content/add-content.qmd
