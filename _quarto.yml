@@ -28,7 +28,7 @@ book:
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-1.0"
+    left: "&copy; CC-4.0"
   
   sidebar:
     background: "#D9E3E4"
